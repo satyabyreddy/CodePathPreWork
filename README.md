@@ -9,7 +9,7 @@ An iOS App that gives students the ability themselves.
 
 ### App Walk-though
 
-<img src="giphy.gif" width=200><br>
+<iframe src="https://giphy.com/embed/7Id8sxZtA29zPxXCHa" width="238" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/7Id8sxZtA29zPxXCHa">via GIPHY</a></p>
 
 ### Features
 
